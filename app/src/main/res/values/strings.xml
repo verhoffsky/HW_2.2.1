@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My_HW_2.2.1</string>
+    <string name="buttonSave">Сохранить</string>
+    <string name="inputNote">Напишите заметку</string>
+</resources>
